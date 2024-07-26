@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(254, 127, 72);
+}
+.head
+{
+    color: rgb(5, 3, 147);
+}
+#bglime
+{
+    background-color: rgb(13, 253, 0);
+}
+
+p{
+    color: white;
+}
+
+#para
+{
+    color: green;
+}
+
+span{
+    color: black;
+    font-size: xx-large;
+}
+
+ul {
+    color: white;
+}
+
+span[data-highlight="yellow"]
+{
+    background-color: yellow;
+    font-size: large;
+}
+
+span[data-highlight="blue"]
+{
+    background-color: blue;
+    font-size: large;
+}
+
+span[data-highlight="red"]
+{
+    color: red;
+    font-size: large;
+}
+
+span[data-highlight="blue1"]
+{
+    color: blue;
+    font-size: large;
+}
